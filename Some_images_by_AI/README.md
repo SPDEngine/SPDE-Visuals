@@ -8,7 +8,7 @@ This folder contains a variety of images, most of which were generated using Mid
 
 These images are visual representations or interpretations of the stochastic heat equation (SHE):
 
-- [chenle02\_Stochastic\_heat\_equation.png](./chenle02\_Stochastic\_heat\_equation.png)
+- chenle02\_Stochastic\_heat\_equation.png
   ![chenle02\_Stochastic\_heat\_equation.png](./chenle02\_Stochastic\_heat\_equation.png)
 - [chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png](./chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png)
   ![chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png](./chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png)
