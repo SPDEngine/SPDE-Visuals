@@ -1,14 +1,14 @@
 # Image Collection
 
-This folder contains a variety of images, most of which were generated using MidJourney (denoted by the prefix **MJ**). The file names are based on the prompts used for generating the images. Below is an organized breakdown of the images by their themes and purposes. These images were used in some of my past talks.
+This folder contains a variety of images, most of which were generated using MidJourney (denoted by the prefix **MJ** or my username on discord **chenle02**). The file names are based on the prompts used for generating the images. Below is an organized breakdown of the images by their themes and purposes. These images were used in some of my past talks.
 
 ---
 
 ## **Stochastic Heat Equation (SHE)**
 
-These images are visual representations or interpretations of the stochastic heat equation (SHE):
+These images are visual representations or interpretations of the stochastic heat equation (SHE), parabolic Anderson model, etc. :
 
-- chenle02_Stochastic_heat_equation.png
+- [chenle02_Stochastic_heat_equation.png](./chenle02_Stochastic_heat_equation.png)
   ![chenle02_Stochastic_heat_equation.png](./chenle02_Stochastic_heat_equation.png)
 - [chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png](./chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png)
   ![chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png](./chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png)
@@ -20,6 +20,22 @@ These images are visual representations or interpretations of the stochastic hea
   ![MJ_SHE_Sphere.png](./MJ_SHE_Sphere.png)
 - [MJ_SHE_Torus.png](./MJ_SHE_Torus.png)
   ![MJ_SHE_Torus.png](./MJ_SHE_Torus.png)
+
+The following images are used to show my favorite initial condition: the Dirac delta initial data.
+
+- [MJ_Explosion.png](./MJ_Explosion.png)
+  ![MJ_Explosion.png](./MJ_Explosion.png)
+
+The following examples illustrate intermittency and are taken from Zeldovich's book *Almighty Chances*:
+
+- [chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png](./chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png)
+  ![chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png](./chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png)
+- [chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
+  ![chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
+- [MJ_Mushroooms_Forest.png](./MJ_Mushroooms_Forest.png)
+  ![MJ_Mushroooms_Forest.png](./MJ_Mushroooms_Forest.png)
+- [MJ_Mushroooms_Forest_4pics.png](./MJ_Mushroooms_Forest_4pics.png)
+  ![MJ_Mushroooms_Forest_4pics.png](./MJ_Mushroooms_Forest_4pics.png)
 
 ---
 
@@ -45,8 +61,6 @@ Exploring cosmic forces, the universe, and other celestial concepts:
   ![MJ_Curious_person_Facing_Universe2.png](./MJ_Curious_person_Facing_Universe2.png)
 - [MJ_Evolution_Universe_4pics.png](./MJ_Evolution_Universe_4pics.png)
   ![MJ_Evolution_Universe_4pics.png](./MJ_Evolution_Universe_4pics.png)
-- [MJ_Explosion.png](./MJ_Explosion.png)
-  ![MJ_Explosion.png](./MJ_Explosion.png)
 
 ---
 
@@ -54,18 +68,10 @@ Exploring cosmic forces, the universe, and other celestial concepts:
 
 Nature-inspired images, including forests, mushrooms, and lightning:
 
-- [chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png](./chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png)
-  ![chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png](./chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png)
-- [chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
-  ![chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
 - [chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png](./chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png)
   ![chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png](./chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png)
 - [chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png](./chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png)
   ![chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png](./chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png)
-- [MJ_Mushroooms_Forest.png](./MJ_Mushroooms_Forest.png)
-  ![MJ_Mushroooms_Forest.png](./MJ_Mushroooms_Forest.png)
-- [MJ_Mushroooms_Forest_4pics.png](./MJ_Mushroooms_Forest_4pics.png)
-  ![MJ_Mushroooms_Forest_4pics.png](./MJ_Mushroooms_Forest_4pics.png)
 - [MJ_Folk_in_Forest.png](./MJ_Folk_in_Forest.png)
   ![MJ_Folk_in_Forest.png](./MJ_Folk_in_Forest.png)
 - [MJ_Folk_in_Forest_more_realistic.png](./MJ_Folk_in_Forest_more_realistic.png)
@@ -92,9 +98,9 @@ Visualizations inspired by mathematical ideas and models:
 
 ---
 
-## **Abstract and Conceptual Themes**
+## **Examples of Stochastic Wave Equation**
 
-Artistic or abstract visualizations:
+The following is an example from Walsh's 1986 notes, which describes a one-dimensional stochastic wave equation—the vibration of a guitar string in a sandstorm:
 
 - [chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png](./chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png)
   ![chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png](./chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png)
