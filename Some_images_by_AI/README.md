@@ -8,18 +8,18 @@ This folder contains a variety of images, most of which were generated using Mid
 
 These images are visual representations or interpretations of the stochastic heat equation (SHE):
 
-- chenle02\_Stochastic\_heat\_equation.png
-  ![chenle02\_Stochastic\_heat\_equation.png](./chenle02\_Stochastic\_heat\_equation.png)
-- [chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png](./chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png)
-  ![chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png](./chenle02\_Chaotic\_stochastic\_heat\_flow\_on\_a\_torus.png)
-- [chenle02\_Intermittency\_parabolic\_Anderson\_model\_Brownian\_motion.png](./chenle02\_Intermittency\_parabolic\_Anderson\_model\_Brownian\_motion.png)
-  ![chenle02\_Intermittency\_parabolic\_Anderson\_model\_Brownian\_motion.png](./chenle02\_Intermittency\_parabolic\_Anderson\_model\_Brownian\_motion.png)
-- [MJ\_SHE.png](./MJ\_SHE.png)
-  ![MJ\_SHE.png](./MJ\_SHE.png)
-- [MJ\_SHE\_Sphere.png](./MJ\_SHE\_Sphere.png)
-  ![MJ\_SHE\_Sphere.png](./MJ\_SHE\_Sphere.png)
-- [MJ\_SHE\_Torus.png](./MJ\_SHE\_Torus.png)
-  ![MJ\_SHE\_Torus.png](./MJ\_SHE\_Torus.png)
+- chenle02_Stochastic_heat_equation.png
+  ![chenle02_Stochastic_heat_equation.png](./chenle02_Stochastic_heat_equation.png)
+- [chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png](./chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png)
+  ![chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png](./chenle02_Chaotic_stochastic_heat_flow_on_a_torus.png)
+- [chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png](./chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png)
+  ![chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png](./chenle02_Intermittency_parabolic_Anderson_model_Brownian_motion.png)
+- [MJ_SHE.png](./MJ_SHE.png)
+  ![MJ_SHE.png](./MJ_SHE.png)
+- [MJ_SHE_Sphere.png](./MJ_SHE_Sphere.png)
+  ![MJ_SHE_Sphere.png](./MJ_SHE_Sphere.png)
+- [MJ_SHE_Torus.png](./MJ_SHE_Torus.png)
+  ![MJ_SHE_Torus.png](./MJ_SHE_Torus.png)
 
 ---
 
@@ -27,26 +27,26 @@ These images are visual representations or interpretations of the stochastic hea
 
 Exploring cosmic forces, the universe, and other celestial concepts:
 
-- [chenle02\_A\_person\_in\_front\_of\_the\_whole\_universe\_gallaxies.png](./chenle02\_A\_person\_in\_front\_of\_the\_whole\_universe\_gallaxies.png)
-  ![chenle02\_A\_person\_in\_front\_of\_the\_whole\_universe\_gallaxies.png](./chenle02\_A\_person\_in\_front\_of\_the\_whole\_universe\_gallaxies.png)
-- [chenle02\_Cosmic\_forces\_beyond\_comprehension.png](./chenle02\_Cosmic\_forces\_beyond\_comprehension.png)
-  ![chenle02\_Cosmic\_forces\_beyond\_comprehension.png](./chenle02\_Cosmic\_forces\_beyond\_comprehension.png)
-- [chenle02\_Was\_it\_nuclear\_explosionor\_cosmic\_forces\_beyond\_comprehension.png](./chenle02\_Was\_it\_nuclear\_explosionor\_cosmic\_forces\_beyond\_comprehension.png)
-  ![chenle02\_Was\_it\_nuclear\_explosionor\_cosmic\_forces\_beyond\_comprehension.png](./chenle02\_Was\_it\_nuclear\_explosionor\_cosmic\_forces\_beyond\_comprehension.png)
-- [chenle02\_A\_homesick\_guy\_looking\_back\_to\_Earch\_from\_Mars\_cinemar.png](./chenle02\_A\_homesick\_guy\_looking\_back\_to\_Earch\_from\_Mars\_cinemar.png)
-  ![chenle02\_A\_homesick\_guy\_looking\_back\_to\_Earch\_from\_Mars\_cinemar.png](./chenle02\_A\_homesick\_guy\_looking\_back\_to\_Earch\_from\_Mars\_cinemar.png)
-- [chenle02\_Standing\_on\_the\_planet\_Mars\_looking\_at\_home\_the\_earth.png](./chenle02\_Standing\_on\_the\_planet\_Mars\_looking\_at\_home\_the\_earth.png)
-  ![chenle02\_Standing\_on\_the\_planet\_Mars\_looking\_at\_home\_the\_earth.png](./chenle02\_Standing\_on\_the\_planet\_Mars\_looking\_at\_home\_the\_earth.png)
-- [chenle02\_Imagine\_a\_massive\_object\_such\_as\_a\_black\_hole\_or\_neutr\_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png](./chenle02\_Imagine\_a\_massive\_object\_such\_as\_a\_black\_hole\_or\_neutr\_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png)
-  ![chenle02\_Imagine\_a\_massive\_object\_such\_as\_a\_black\_hole\_or\_neutr\_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png](./chenle02\_Imagine\_a\_massive\_object\_such\_as\_a\_black\_hole\_or\_neutr\_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png)
-- [MJ\_Curious\_person\_Facing\_Universe1.png](./MJ\_Curious\_person\_Facing\_Universe1.png)
-  ![MJ\_Curious\_person\_Facing\_Universe1.png](./MJ\_Curious\_person\_Facing\_Universe1.png)
-- [MJ\_Curious\_person\_Facing\_Universe2.png](./MJ\_Curious\_person\_Facing\_Universe2.png)
-  ![MJ\_Curious\_person\_Facing\_Universe2.png](./MJ\_Curious\_person\_Facing\_Universe2.png)
-- [MJ\_Evolution\_Universe\_4pics.png](./MJ\_Evolution\_Universe\_4pics.png)
-  ![MJ\_Evolution\_Universe\_4pics.png](./MJ\_Evolution\_Universe\_4pics.png)
-- [MJ\_Explosion.png](./MJ\_Explosion.png)
-  ![MJ\_Explosion.png](./MJ\_Explosion.png)
+- [chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png](./chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png)
+  ![chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png](./chenle02_A_person_in_front_of_the_whole_universe_gallaxies.png)
+- [chenle02_Cosmic_forces_beyond_comprehension.png](./chenle02_Cosmic_forces_beyond_comprehension.png)
+  ![chenle02_Cosmic_forces_beyond_comprehension.png](./chenle02_Cosmic_forces_beyond_comprehension.png)
+- [chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehension.png](./chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehension.png)
+  ![chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehension.png](./chenle02_Was_it_nuclear_explosionor_cosmic_forces_beyond_comprehension.png)
+- [chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png](./chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png)
+  ![chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png](./chenle02_A_homesick_guy_looking_back_to_Earch_from_Mars_cinemar.png)
+- [chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png](./chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png)
+  ![chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png](./chenle02_Standing_on_the_planet_Mars_looking_at_home_the_earth.png)
+- [chenle02_Imagine_a_massive_object_such_as_a_black_hole_or_neutr_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png](./chenle02_Imagine_a_massive_object_such_as_a_black_hole_or_neutr_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png)
+  ![chenle02_Imagine_a_massive_object_such_as_a_black_hole_or_neutr_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png](./chenle02_Imagine_a_massive_object_such_as_a_black_hole_or_neutr_335e7ef3-5235-4cda-8233-f3feb9eac5c5.png)
+- [MJ_Curious_person_Facing_Universe1.png](./MJ_Curious_person_Facing_Universe1.png)
+  ![MJ_Curious_person_Facing_Universe1.png](./MJ_Curious_person_Facing_Universe1.png)
+- [MJ_Curious_person_Facing_Universe2.png](./MJ_Curious_person_Facing_Universe2.png)
+  ![MJ_Curious_person_Facing_Universe2.png](./MJ_Curious_person_Facing_Universe2.png)
+- [MJ_Evolution_Universe_4pics.png](./MJ_Evolution_Universe_4pics.png)
+  ![MJ_Evolution_Universe_4pics.png](./MJ_Evolution_Universe_4pics.png)
+- [MJ_Explosion.png](./MJ_Explosion.png)
+  ![MJ_Explosion.png](./MJ_Explosion.png)
 
 ---
 
@@ -54,24 +54,24 @@ Exploring cosmic forces, the universe, and other celestial concepts:
 
 Nature-inspired images, including forests, mushrooms, and lightning:
 
-- [chenle02\_Mushrooms\_in\_clusters\_in\_a\_forest\_with\_sun\_shades\_ultr.png](./chenle02\_Mushrooms\_in\_clusters\_in\_a\_forest\_with\_sun\_shades\_ultr.png)
-  ![chenle02\_Mushrooms\_in\_clusters\_in\_a\_forest\_with\_sun\_shades\_ultr.png](./chenle02\_Mushrooms\_in\_clusters\_in\_a\_forest\_with\_sun\_shades\_ultr.png)
-- [chenle02\_In\_a\_dense\_forest\_there\_is\_a\_folk\_where\_two\_roads\_dive\_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02\_In\_a\_dense\_forest\_there\_is\_a\_folk\_where\_two\_roads\_dive\_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
-  ![chenle02\_In\_a\_dense\_forest\_there\_is\_a\_folk\_where\_two\_roads\_dive\_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02\_In\_a\_dense\_forest\_there\_is\_a\_folk\_where\_two\_roads\_dive\_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
-- [chenle02\_Show\_rain\_drops\_on\_a\_small\_pond\_in\_a\_foggy\_raining\_day.png](./chenle02\_Show\_rain\_drops\_on\_a\_small\_pond\_in\_a\_foggy\_raining\_day.png)
-  ![chenle02\_Show\_rain\_drops\_on\_a\_small\_pond\_in\_a\_foggy\_raining\_day.png](./chenle02\_Show\_rain\_drops\_on\_a\_small\_pond\_in\_a\_foggy\_raining\_day.png)
-- [chenle02\_Lightningclouds\_dramatic\_light\_zigzag\_highly\_detailed.png](./chenle02\_Lightningclouds\_dramatic\_light\_zigzag\_highly\_detailed.png)
-  ![chenle02\_Lightningclouds\_dramatic\_light\_zigzag\_highly\_detailed.png](./chenle02\_Lightningclouds\_dramatic\_light\_zigzag\_highly\_detailed.png)
-- [MJ\_Mushroooms\_Forest.png](./MJ\_Mushroooms\_Forest.png)
-  ![MJ\_Mushroooms\_Forest.png](./MJ\_Mushroooms\_Forest.png)
-- [MJ\_Mushroooms\_Forest\_4pics.png](./MJ\_Mushroooms\_Forest\_4pics.png)
-  ![MJ\_Mushroooms\_Forest\_4pics.png](./MJ\_Mushroooms\_Forest\_4pics.png)
-- [MJ\_Folk\_in\_Forest.png](./MJ\_Folk\_in\_Forest.png)
-  ![MJ\_Folk\_in\_Forest.png](./MJ\_Folk\_in\_Forest.png)
-- [MJ\_Folk\_in\_Forest\_more\_realistic.png](./MJ\_Folk\_in\_Forest\_more\_realistic.png)
-  ![MJ\_Folk\_in\_Forest\_more\_realistic.png](./MJ\_Folk\_in\_Forest\_more\_realistic.png)
-- [MJ\_Growing\_Snow\_Sufface.png](./MJ\_Growing\_Snow\_Sufface.png)
-  ![MJ\_Growing\_Snow\_Sufface.png](./MJ\_Growing\_Snow\_Sufface.png)
+- [chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png](./chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png)
+  ![chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png](./chenle02_Mushrooms_in_clusters_in_a_forest_with_sun_shades_ultr.png)
+- [chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
+  ![chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png](./chenle02_In_a_dense_forest_there_is_a_folk_where_two_roads_dive_fbb81936-8ba4-41b4-af9a-5872d385313d.png)
+- [chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png](./chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png)
+  ![chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png](./chenle02_Show_rain_drops_on_a_small_pond_in_a_foggy_raining_day.png)
+- [chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png](./chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png)
+  ![chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png](./chenle02_Lightningclouds_dramatic_light_zigzag_highly_detailed.png)
+- [MJ_Mushroooms_Forest.png](./MJ_Mushroooms_Forest.png)
+  ![MJ_Mushroooms_Forest.png](./MJ_Mushroooms_Forest.png)
+- [MJ_Mushroooms_Forest_4pics.png](./MJ_Mushroooms_Forest_4pics.png)
+  ![MJ_Mushroooms_Forest_4pics.png](./MJ_Mushroooms_Forest_4pics.png)
+- [MJ_Folk_in_Forest.png](./MJ_Folk_in_Forest.png)
+  ![MJ_Folk_in_Forest.png](./MJ_Folk_in_Forest.png)
+- [MJ_Folk_in_Forest_more_realistic.png](./MJ_Folk_in_Forest_more_realistic.png)
+  ![MJ_Folk_in_Forest_more_realistic.png](./MJ_Folk_in_Forest_more_realistic.png)
+- [MJ_Growing_Snow_Sufface.png](./MJ_Growing_Snow_Sufface.png)
+  ![MJ_Growing_Snow_Sufface.png](./MJ_Growing_Snow_Sufface.png)
 
 ---
 
@@ -79,16 +79,16 @@ Nature-inspired images, including forests, mushrooms, and lightning:
 
 Visualizations inspired by mathematical ideas and models:
 
-- [chenle02\_Law\_of\_large\_numbers\_and\_central\_limit\_theorem.png](./chenle02\_Law\_of\_large\_numbers\_and\_central\_limit\_theorem.png)
-  ![chenle02\_Law\_of\_large\_numbers\_and\_central\_limit\_theorem.png](./chenle02\_Law\_of\_large\_numbers\_and\_central\_limit\_theorem.png)
-- [chenle02\_Demonstrate\_the\_turbulent\_chaotic\_stochastic\_heat\_flow\_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png](./chenle02\_Demonstrate\_the\_turbulent\_chaotic\_stochastic\_heat\_flow\_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png)
-  ![chenle02\_Demonstrate\_the\_turbulent\_chaotic\_stochastic\_heat\_flow\_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png](./chenle02\_Demonstrate\_the\_turbulent\_chaotic\_stochastic\_heat\_flow\_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png)
-- [MJ\_Chaos\_Intermittency\_SPDEs1.png](./MJ\_Chaos\_Intermittency\_SPDEs1.png)
-  ![MJ\_Chaos\_Intermittency\_SPDEs1.png](./MJ\_Chaos\_Intermittency\_SPDEs1.png)
-- [MJ\_Chaos\_Intermittency\_SPDEs2.png](./MJ\_Chaos\_Intermittency\_SPDEs2.png)
-  ![MJ\_Chaos\_Intermittency\_SPDEs2.png](./MJ\_Chaos\_Intermittency\_SPDEs2.png)
-- [MJ\_SWE\_Chaos\_Propogation.png](./MJ\_SWE\_Chaos\_Propogation.png)
-  ![MJ\_SWE\_Chaos\_Propogation.png](./MJ\_SWE\_Chaos\_Propogation.png)
+- [chenle02_Law_of_large_numbers_and_central_limit_theorem.png](./chenle02_Law_of_large_numbers_and_central_limit_theorem.png)
+  ![chenle02_Law_of_large_numbers_and_central_limit_theorem.png](./chenle02_Law_of_large_numbers_and_central_limit_theorem.png)
+- [chenle02_Demonstrate_the_turbulent_chaotic_stochastic_heat_flow_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png](./chenle02_Demonstrate_the_turbulent_chaotic_stochastic_heat_flow_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png)
+  ![chenle02_Demonstrate_the_turbulent_chaotic_stochastic_heat_flow_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png](./chenle02_Demonstrate_the_turbulent_chaotic_stochastic_heat_flow_1a0001f2-80fa-4f5f-bdec-4127c89b326d.png)
+- [MJ_Chaos_Intermittency_SPDEs1.png](./MJ_Chaos_Intermittency_SPDEs1.png)
+  ![MJ_Chaos_Intermittency_SPDEs1.png](./MJ_Chaos_Intermittency_SPDEs1.png)
+- [MJ_Chaos_Intermittency_SPDEs2.png](./MJ_Chaos_Intermittency_SPDEs2.png)
+  ![MJ_Chaos_Intermittency_SPDEs2.png](./MJ_Chaos_Intermittency_SPDEs2.png)
+- [MJ_SWE_Chaos_Propogation.png](./MJ_SWE_Chaos_Propogation.png)
+  ![MJ_SWE_Chaos_Propogation.png](./MJ_SWE_Chaos_Propogation.png)
 
 ---
 
@@ -96,8 +96,8 @@ Visualizations inspired by mathematical ideas and models:
 
 Artistic or abstract visualizations:
 
-- [chenle02\_A\_gitar\_placed\_in\_the\_sanddust\_storm\_in\_a\_desert\_show\.png](./chenle02\_A\_gitar\_placed\_in\_the\_sanddust\_storm\_in\_a\_desert\_show\.png)
-  ![chenle02\_A\_gitar\_placed\_in\_the\_sanddust\_storm\_in\_a\_desert\_show\.png](./chenle02\_A\_gitar\_placed\_in\_the\_sanddust\_storm\_in\_a\_desert\_show\.png)
+- [chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png](./chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png)
+  ![chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png](./chenle02_A_gitar_placed_in_the_sanddust_storm_in_a_desert_show.png)
 
 ---
 
