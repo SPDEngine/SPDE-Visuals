@@ -32,6 +32,18 @@ The purpose of this repository is to provide a comprehensive collection of visua
 - Use the `Some_images_by_AI` folder for presentation-ready visuals and abstract images.
 - Refer to the accompanying references for further context and understanding.
 
+### Sample Videos (Sora@OpenAI)
+
+Short companion videos for the stochastic wave equation “guitar in a sandstorm” example:
+
+<video src="./Some_images_by_AI/Sora_Guitar_string_sandstorm_v1.mp4" controls width="640">
+Your browser does not support the video tag.
+</video>
+
+<video src="./Some_images_by_AI/Sora_Guitar_string_sandstorm_v2.mp4" controls width="640">
+Your browser does not support the video tag.
+</video>
+
 ---
 
 ## Sample Beamer Slide
