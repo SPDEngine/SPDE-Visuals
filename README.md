@@ -36,11 +36,19 @@ The purpose of this repository is to provide a comprehensive collection of visua
 
 ## Acknowledgment
 
-If you use figures or videos from this repository in talks, papers, or teaching materials, please include an acknowledgment such as:
+Feel free to use any figures, videos, and other materials from this repository in your talks, lectures, and papers—no formal acknowledgment is required.
 
-> Figures adapted from the *SPDE-Visuals* repository (Le Chen, Auburn University, lzc0090@auburn.edu, https://spdengine.github.io/SPDE-Visuals/).
+If you would like to express gratitude, a brief note such as
 
-Linking to the GitHub repository or project page is also appreciated.
+> Figures inspired by the *SPDE-Visuals* repository (Le Chen, Auburn University, https://spdengine.github.io/SPDE-Visuals/)
+
+or a link to this GitHub/GitHub Pages project is very much appreciated. For questions or comments, you can reach me at lzc0090@auburn.edu.
+
+---
+
+## License
+
+All materials in this repository are released under the [CC0 1.0 Universal](./LICENSE) public-domain dedication. You may copy, modify, and reuse the contents for any purpose, including commercial use, without asking permission. Where feasible, please avoid implying any endorsement by the author or affiliated institutions.
 
 ### Sample Videos (Sora@OpenAI)
 
