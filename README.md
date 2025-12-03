@@ -13,6 +13,7 @@ Live gallery: https://spdengine.github.io/SPDE-Visuals/
 - [Purpose](#purpose)
 - [Repository contents](#repository-contents)
 - [How to use](#how-to-use)
+- [How to contribute](#how-to-contribute)
 - [Sample media](#sample-media)
 - [Acknowledgment](#acknowledgment)
 - [License](#license)
@@ -42,6 +43,21 @@ The purpose of this repository is to provide a comprehensive collection of visua
 - Browse the `Peak-propogation` folder to explore visualizations related to the stochastic heat equation.
 - Use the `Some_images_by_AI` folder for presentation-ready visuals and abstract images.
 - Refer to the accompanying references for further context and understanding.
+
+---
+
+## How to contribute
+
+Contributions of new figures, animations, or small fixes are very welcome.
+
+- Open a pull request or issue briefly describing what you are adding or changing.
+- Place new assets in an appropriate folder (`Peak-propogation`, `Some_images_by_AI`, or a new subfolder with a short `README.md`).
+- Use descriptive, ASCII-only filenames without spaces (follow patterns such as `MJ_*`, `chenle02_*`, `Nano_Banana_Pro_*`, `Sora_*`).
+- Update the relevant README to include your new material (link + embedded preview) and mention the tool used to generate it (e.g., MidJourney, Gemini 3, Sora@OpenAI).
+- Keep file sizes reasonable for GitHub; compress or downscale very large images or videos when possible.
+- By contributing, you agree that your additions are compatible with the repository’s [CC0 1.0](./LICENSE) dedication.
+
+For more contributor details, see `AGENTS.md` in the repository root.
 
 ---
 
