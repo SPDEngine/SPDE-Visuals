@@ -144,6 +144,12 @@ Your browser does not support the video tag.
 
 ## Usage
 
-These images can be used for academic purposes, presentations, and creative projects. If you use these images, proper attribution to the repository and respective tools (e.g., MidJourney for MJ images) is appreciated.
+Feel free to use any images and videos in this folder for talks, lectures, papers, and creative projects—no formal acknowledgment is required.
 
-For further exploration and downloads, visit the repository: [SPDE-Visuals Repository](https://github.com/SPDEngine/SPDE-Visuals).
+If you would like to express gratitude, a brief note such as
+
+> Figures inspired by the *SPDE-Visuals* repository (Le Chen, Auburn University, https://spdengine.github.io/SPDE-Visuals/).
+
+or a link to the GitHub/GitHub Pages project is very much appreciated. When appropriate, you may also credit the tools used (e.g., MidJourney, Gemini 3 / Nano Banana Pro, Sora@OpenAI). For questions or comments, you can reach me at lzc0090@auburn.edu or visit https://webhome.auburn.edu/~lzc0090/index.html.
+
+For further exploration and downloads, visit the main repository: [SPDE-Visuals](https://github.com/SPDEngine/SPDE-Visuals).
