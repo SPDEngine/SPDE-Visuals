@@ -73,9 +73,9 @@ Feel free to use any figures, videos, and other materials from this repository i
 
 If you would like to express gratitude, a brief note such as
 
-> Figures inspired by the *SPDE-Visuals* repository (Le Chen, Auburn University, https://spdengine.github.io/SPDE-Visuals/).
+> Figures inspired by the *SPDE-Visuals* repository (Le Chen, Auburn University, [https://spdengine.github.io/SPDE-Visuals/](https://spdengine.github.io/SPDE-Visuals/)).
 
-or a link to this GitHub/GitHub Pages project is very much appreciated. For questions or comments, you can reach me at lzc0090@auburn.edu, or visit my webpage: https://webhome.auburn.edu/~lzc0090/index.html.
+or a link to this GitHub/GitHub Pages project is very much appreciated. For questions or comments, you can reach me at [lzc0090@auburn.edu](lzc0090@auburn.edu), or visit my webpage: [https://webhome.auburn.edu/~lzc0090/index.html](https://webhome.auburn.edu/~lzc0090/index.html).
 
 ---
 
