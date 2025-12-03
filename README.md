@@ -32,6 +32,16 @@ The purpose of this repository is to provide a comprehensive collection of visua
 - Use the `Some_images_by_AI` folder for presentation-ready visuals and abstract images.
 - Refer to the accompanying references for further context and understanding.
 
+---
+
+## Acknowledgment
+
+If you use figures or videos from this repository in talks, papers, or teaching materials, please include an acknowledgment such as:
+
+> Figures adapted from the *SPDE-Visuals* repository (Le Chen, Auburn University, lzc0090@auburn.edu, https://spdengine.github.io/SPDE-Visuals/).
+
+Linking to the GitHub repository or project page is also appreciated.
+
 ### Sample Videos (Sora@OpenAI)
 
 Short companion videos for the stochastic wave equation “guitar in a sandstorm” example:
